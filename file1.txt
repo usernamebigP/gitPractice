@@ -1,1 +1,2 @@
-this file has been modified by feature 3.
+
+this is the modified file for feature1 as well as feature3.
